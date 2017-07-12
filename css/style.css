@@ -1,0 +1,28 @@
+body{
+  background: black;
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+}
+
+.title{
+  text-align: center;
+  margin-top: 30%;
+}
+
+#menu{
+  color: #777;
+  margin-top: 5px;
+}
+
+#list{
+  list-style-type: none;
+  color: white;
+}
+
+#linkNone{
+  text-decoration: none;
+  color: white;
+}
